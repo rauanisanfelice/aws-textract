@@ -1,0 +1,631 @@
+{
+    "blocks": [
+        {
+            "EntityTypes": [
+                {
+                    "key": {
+                        "confidence": 100.0,
+                        "value": "Data saida"
+                    },
+                    "value": {
+                        "confidence": 100.0,
+                        "value": "Data saida"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 100.0,
+                        "value": "CNPJ"
+                    },
+                    "value": {
+                        "confidence": 100.0,
+                        "value": "CNPJ"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 100.0,
+                        "value": "Peso bruto"
+                    },
+                    "value": {
+                        "confidence": 100.0,
+                        "value": "Peso bruto"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.5,
+                        "value": "Nome / Razão Social"
+                    },
+                    "value": {
+                        "confidence": 99.5,
+                        "value": "Nome / Razão Social"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Peso líquido"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Peso líquido"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Data emissão"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Data emissão"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Bairro"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Bairro"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Municipio"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Municipio"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Inscrição Estadual"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Inscrição Estadual"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "CEP"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "CEP"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 99.0,
+                        "value": "Fone/Fax"
+                    },
+                    "value": {
+                        "confidence": 99.0,
+                        "value": "Fone/Fax"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 98.5,
+                        "value": "Hora saida"
+                    },
+                    "value": {
+                        "confidence": 98.5,
+                        "value": "Hora saida"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 98.0,
+                        "value": "Data de recebimento"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 97.5,
+                        "value": "UF"
+                    },
+                    "value": {
+                        "confidence": 97.5,
+                        "value": "UF"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 97.0,
+                        "value": "Natureza da operação"
+                    },
+                    "value": {
+                        "confidence": 97.0,
+                        "value": "Natureza da operação"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 97.0,
+                        "value": "Placa do veículo"
+                    },
+                    "value": {
+                        "confidence": 97.0,
+                        "value": "Placa do veículo"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 97.0,
+                        "value": "Vencimento"
+                    },
+                    "value": {
+                        "confidence": 97.0,
+                        "value": "Vencimento"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 97.0,
+                        "value": "Vencimento"
+                    },
+                    "value": {
+                        "confidence": 97.0,
+                        "value": "Vencimento"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.5,
+                        "value": "UF"
+                    },
+                    "value": {
+                        "confidence": 96.5,
+                        "value": "UF"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.5,
+                        "value": "Nome"
+                    },
+                    "value": {
+                        "confidence": 96.5,
+                        "value": "Nome"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.5,
+                        "value": "UF"
+                    },
+                    "value": {
+                        "confidence": 96.5,
+                        "value": "UF"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.0,
+                        "value": "Espécie"
+                    },
+                    "value": {
+                        "confidence": 96.0,
+                        "value": "Espécie"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.0,
+                        "value": "CNPJ/CPF"
+                    },
+                    "value": {
+                        "confidence": 96.0,
+                        "value": "CNPJ/CPF"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.0,
+                        "value": "Muricipio"
+                    },
+                    "value": {
+                        "confidence": 96.0,
+                        "value": "Muricipio"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 96.0,
+                        "value": "Chave de acesso da NF e - consulta no site: www.rfe.fazenda.gov.br"
+                    },
+                    "value": {
+                        "confidence": 96.0,
+                        "value": "Chave de acesso da NF e - consulta no site: www.rfe.fazenda.gov.br"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 95.5,
+                        "value": "Numeração"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 95.5,
+                        "value": "Código ANTT"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 95.0,
+                        "value": "Número"
+                    },
+                    "value": {
+                        "confidence": 95.0,
+                        "value": "Número"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 95.0,
+                        "value": "Vencimento"
+                    },
+                    "value": {
+                        "confidence": 95.0,
+                        "value": "Vencimento"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 93.5,
+                        "value": "Valor Número"
+                    },
+                    "value": {
+                        "confidence": 93.5,
+                        "value": "Valor Número"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 93.5,
+                        "value": "Endereço"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 93.5,
+                        "value": "Outras despesas acessórias"
+                    },
+                    "value": {
+                        "confidence": 93.5,
+                        "value": "Outras despesas acessórias"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 93.0,
+                        "value": "Inscrição Municipal"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 92.5,
+                        "value": "Marca"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 92.5,
+                        "value": "Valor do ICMS Subst."
+                    },
+                    "value": {
+                        "confidence": 92.5,
+                        "value": "Valor do ICMS Subst."
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 92.5,
+                        "value": "Valor total da nota"
+                    },
+                    "value": {
+                        "confidence": 92.5,
+                        "value": "Valor total da nota"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 90.5,
+                        "value": "Número"
+                    },
+                    "value": {
+                        "confidence": 90.5,
+                        "value": "Número"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 89.5,
+                        "value": "Endereço"
+                    },
+                    "value": {
+                        "confidence": 89.5,
+                        "value": "Endereço"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 88.5,
+                        "value": "Base de cálculo do ICMS"
+                    },
+                    "value": {
+                        "confidence": 88.5,
+                        "value": "Base de cálculo do ICMS"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 86.5,
+                        "value": "Inscrição Estadual"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 86.5,
+                        "value": "Valor total dos produtos"
+                    },
+                    "value": {
+                        "confidence": 86.5,
+                        "value": "Valor total dos produtos"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 86.0,
+                        "value": "Valor do seguro"
+                    },
+                    "value": {
+                        "confidence": 86.0,
+                        "value": "Valor do seguro"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 82.5,
+                        "value": "Valor do frete"
+                    },
+                    "value": {
+                        "confidence": 82.5,
+                        "value": "Valor do frete"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 82.0,
+                        "value": "Base de cálculo do ICMS Subst."
+                    },
+                    "value": {
+                        "confidence": 82.0,
+                        "value": "Base de cálculo do ICMS Subst."
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 77.5,
+                        "value": "Identificação e assinatura do recebedor"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 75.5,
+                        "value": "Número de protocolo de autorização de uso da NF-e"
+                    },
+                    "value": {
+                        "confidence": 75.5,
+                        "value": "Número de protocolo de autorização de uso da NF-e"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 75.0,
+                        "value": "Desconto"
+                    },
+                    "value": {
+                        "confidence": 75.0,
+                        "value": "Desconto"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 72.5,
+                        "value": "Valor do ICMS"
+                    },
+                    "value": {
+                        "confidence": 72.5,
+                        "value": "Valor do ICMS"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 72.5,
+                        "value": "Reservado ao fisco"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 71.5,
+                        "value": "Base de cáculo do ISSQN"
+                    },
+                    "value": {
+                        "confidence": 71.5,
+                        "value": "Base de cáculo do ISSQN"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 71.0,
+                        "value": "Inscrição Estadual"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 68.5,
+                        "value": "CNPJ"
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 68.0,
+                        "value": "Valor do IPI"
+                    },
+                    "value": {
+                        "confidence": 68.0,
+                        "value": "Valor do IPI"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 60.5,
+                        "value": "Valor total dos serviços"
+                    },
+                    "value": {
+                        "confidence": 60.5,
+                        "value": "Valor total dos serviços"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 59.5,
+                        "value": "Valor"
+                    },
+                    "value": {
+                        "confidence": 59.5,
+                        "value": "Valor"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 58.5,
+                        "value": "Valor"
+                    },
+                    "value": {
+                        "confidence": 58.5,
+                        "value": "Valor"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 53.5,
+                        "value": "Inscr. est. do subst.trib."
+                    },
+                    "value": {
+                        "confidence": null,
+                        "value": null
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 52.5,
+                        "value": "Valor do ISSQN"
+                    },
+                    "value": {
+                        "confidence": 52.5,
+                        "value": "Valor do ISSQN"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 46.0,
+                        "value": "1-Entrada 2-Saída"
+                    },
+                    "value": {
+                        "confidence": 46.0,
+                        "value": "1-Entrada 2-Saída"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 44.0,
+                        "value": "Quantidade"
+                    },
+                    "value": {
+                        "confidence": 44.0,
+                        "value": "Quantidade"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 36.5,
+                        "value": "Observações"
+                    },
+                    "value": {
+                        "confidence": 36.5,
+                        "value": "Observações"
+                    }
+                },
+                {
+                    "key": {
+                        "confidence": 33.5,
+                        "value": "1-Emitente 2-Destinatário"
+                    },
+                    "value": {
+                        "confidence": 33.5,
+                        "value": "1-Emitente 2-Destinatário"
+                    }
+                }
+            ],
+            "page": "Page: 1"
+        }
+    ],
+    "file": "Nfe",
+    "pages": 1
+}
